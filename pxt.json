@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "pxt-mfrc522": "github:joy-it/pxt-rfid-mfrc522#1.0.1",
-        "i2cLCD1602": "github:makecode-extensions/i2clcd1602#v1.5.0"
+        "i2cLCD1602": "github:makecode-extensions/i2clcd1602#v1.5.0",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
@@ -17,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "8.0.18",
+        "target": "8.0.21",
         "targetId": "microbit"
     },
     "supportedTargets": [
